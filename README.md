@@ -93,22 +93,15 @@ To run this project locally, you'll need to have [Node.js](https://nodejs.org/) 
    - **Add Widgets**: Users can dynamically add new widgets to the dashboard using the `AddWidget` component.
    - **Remove Widgets**: Widgets can be removed from the dashboard, providing flexibility in how data is presented.
 
-### 4. **Data-Driven UI**
-   - **JSON Data Structure**: The app uses a structured JSON file to manage and render widget data. This approach allows for easy updates and scaling.
-   - **Redux State Management**: The app leverages Redux Toolkit for state management, ensuring that the UI stays in sync with the data.
 
-### 5. **Responsive Design**
-   - **Grid Layout**: The app uses a responsive grid layout to ensure that dashboards and widgets look great on any device.
-   - **Responsive Charts**: Charts and progress bars adjust to fit the screen size, providing a consistent experience across desktop and mobile devices.
-
-### 6. **Customizable UI**
+### 4. **Customizable UI**
    - **Shadcn UI Integration**: The app uses Shadcn UI components for a modern and consistent design language.
    - **Theming and Styling**: Easily customizable CSS for components, allowing developers to adapt the app’s look and feel to their needs.
 
-### 7. **Navigation**
+### 5. **Navigation**
    - **Navbar Component**: A navigation bar at the top of the app allows users to search widgets quickly.
 
-### 8. **Fast and Efficient Development**
+### 6. **Fast and Efficient Development**
    - **Vite-Powered**: The app is built using Vite, providing fast development with hot module replacement and optimized builds.
 
 
